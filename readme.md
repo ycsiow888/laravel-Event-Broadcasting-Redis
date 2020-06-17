@@ -52,6 +52,14 @@ npm install
 ```
 
 **_Step : 5_**
+Create database name simple-chat-app_v2 and type
+
+```
+php artisan migrate
+
+```
+
+**_Step : 6_**
 
 Run Project
 
@@ -59,7 +67,7 @@ Run Project
 php artisan serve
 
 ```
-**_Step : 6_**
+**_Step : 7_**
 
 Open project directory in second terminal/cmd
 
