@@ -9,7 +9,7 @@
 **_Step : 1_**
 
 ```
-git clone project
+git clone https://github.com/ycsiow888/laravel-Event-Broadcasting-Redis.git
 
 ```
 
